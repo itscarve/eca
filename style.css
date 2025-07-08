@@ -65,6 +65,7 @@ body {
   font-weight: 600;
   text-decoration: none;
   transition: 0.3s;
+  marging-top:8px;
 }
 
 .cta-btn:hover {
